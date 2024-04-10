@@ -7,6 +7,7 @@ public class archivo3 {
 		System.out.println("LOLAZO2");
 		System.out.println("LOLAZO3");
 		System.out.println("LOLAZO4");
+		System.out.println("LOLAZO5");
 	}
 
 }
